@@ -1,3 +1,6 @@
+
+![](Fashion-MNIST-dataset.jpeg)
+
 # Object Detection on Final Four Basketball Game Using Yolov5
 
 In in this project I use the Yolov5 object detection architecture which is pre-trained on the [COCO Dataset](https://cocodataset.org/) to detect the different team players.
