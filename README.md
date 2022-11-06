@@ -1,5 +1,5 @@
 
-![](final_four_picture_inference.png)
+![](final_four_picture_inference.jpeg)
 
 # Object Detection on Final Four Basketball Game Using Yolov5
 
